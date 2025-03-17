@@ -1,0 +1,3 @@
+# Guide de Contribution
+
+Merci de votre intérêt ! Voici comment contribuer à ce projet...
